@@ -249,9 +249,9 @@ The following table depicts Gateway API interface mapping to AS400 Connector Ser
     
    Testing API Gateway Interfaces in two ways
    
-     1. From within the Gateway API
+   1. From within the Gateway API
      
-     2. Externally
+   2. Externally
     
  All APIs created can be tested with in the configuration editor. Please refer sample-test-case-payloads.txt for test payloads.
 
